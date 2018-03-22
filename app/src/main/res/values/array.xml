@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cameras">
+        <item>加能</item>
+        <item>尼康</item>
+        <item>索尼</item>
+        <item>宾德</item>
+        <item>柯尼卡</item>
+        <item>美能达</item>
+    </string-array>
+</resources>
